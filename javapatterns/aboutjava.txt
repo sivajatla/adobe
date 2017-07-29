@@ -2,4 +2,4 @@ welcome git learning
 
 committed one file
 
-changes in branch2 creating conflict
+change in master
